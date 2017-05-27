@@ -1,1 +1,1 @@
-Simple Sbt project with Scala.
+Demonstration of how to generalise over case classes and traits with Shapeless.
